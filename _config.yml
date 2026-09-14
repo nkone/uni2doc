@@ -8,6 +8,13 @@ url: https://just-the-docs.github.io
 aux_links:
   UNI2 Wiki: https://mizuumi.wiki/w/Under_Night_In-Birth/UNI2
 
+exclude:
+  - README.md
+  - LICENSE.md
+  - _config.yml
+  - _data/aux_links.yml
+  - docs/template.md
+
 callouts:
   highlight:
     color: yellow

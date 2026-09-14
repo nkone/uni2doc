@@ -6,7 +6,7 @@ layout: page
 {: .no_toc}
 1. TOC
 {:toc}
-<img src="https://mizuumi.wiki/images/7/7b/Uni2_profile_Linne.png" style="width: 50%; height: auto;" alt="Linne avatar" />
+<img src="https://mizuumi.wiki/images/7/7b/Uni2_profile_Linne.png" style="width: 500px; height: auto;" alt="Linne avatar" />
 
 [Google Doc](https://docs.google.com/document/d/1qTYRIUKt7JC_mGrhtOc80S04IAhIpznWqMHeyfUsRyA/edit?usp=sharing){: .btn .btn-blue }
 

@@ -6,7 +6,7 @@ layout: page
 {: .no_toc}
 1. TOC
 {:toc}
-<img src="https://mizuumi.wiki/images/1/11/Uni2_profile_Enkidu.png" style="width: 50%; height: auto;" alt="Enkidu avatar" />
+<img src="https://mizuumi.wiki/images/1/11/Uni2_profile_Enkidu.png" style="width: 300px; height: auto;" alt="Enkidu avatar" />
 
 [Google Doc](https://docs.google.com/document/d/1V_HkL1MblrTp-NIqibPNuH-YpbiRB5WU4R1wmHk9hw4/edit?usp=sharing){: .btn .btn-blue }
 
