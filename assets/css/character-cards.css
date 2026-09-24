@@ -87,28 +87,28 @@
 }
 
 .character-doc-btn--enkidu {
-  --doc-bottom: #1d5bb5;
-  --doc-top: #4ca2ff;
+  --doc-bottom: #163a7a;
+  --doc-top: #5bb9ff;
 }
 
 .character-doc-btn--izumi {
-  --doc-bottom: #b42d7d;
-  --doc-top: #ff7acb;
+  --doc-bottom: #7d1d53;
+  --doc-top: #ff6eb6;
 }
 
 .character-doc-btn--linne {
-  --doc-bottom: #b98812;
-  --doc-top: #f1d06a;
+  --doc-bottom: #7a5708;
+  --doc-top: #f5d76c;
 }
 
 .character-doc-btn--mika {
-  --doc-bottom: #b85e00;
-  --doc-top: #ffb14a;
+  --doc-bottom: #9d4a00;
+  --doc-top: #ffb14d;
 }
 
 .character-doc-btn--nanase {
-  --doc-bottom: #1d8a46;
-  --doc-top: #6fe38d;
+  --doc-bottom: #176a3d;
+  --doc-top: #7be7a3;
 }
 
 .character-card[data-character="enkidu"] {
