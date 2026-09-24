@@ -1,0 +1,152 @@
+.character-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin: 1.5rem 0;
+  align-items: stretch;
+}
+
+.character-card-column {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 190px;
+  min-height: 310px;
+}
+
+.character-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-end;
+  width: 190px;
+  height: 220px;
+  padding: 0.75rem 0.75rem 0.9rem;
+  border: 1px solid #dfe3ea;
+  border-radius: 12px;
+  background: #fff;
+  color: inherit;
+  text-decoration: none;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.character-card:hover {
+  transform: translateY(-4px);
+}
+
+.character-card img {
+  width: 150px;
+  height: 150px;
+  object-fit: contain;
+  margin-bottom: 0.5rem;
+  border-radius: 8px;
+  display: block;
+}
+
+.character-card-name {
+  font-weight: 600;
+  font-size: 1.05rem;
+  line-height: 1.2;
+  margin-top: auto;
+}
+
+.character-doc-btn {
+  position: relative;
+  margin-top: 0.65rem;
+  display: inline-block;
+  padding: 0.45rem 0.8rem;
+  background: linear-gradient(to top, #1f5fb8, #2c7be5);
+  color: #fff;
+  border-radius: 6px;
+  text-decoration: none;
+  font-size: 0.8rem;
+  font-weight: 600;
+  overflow: hidden;
+  z-index: 0;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.character-doc-btn::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(to top, var(--doc-bottom), var(--doc-top));
+  transform: scaleY(0);
+  transform-origin: bottom;
+  transition: transform 0.25s ease;
+  z-index: -1;
+}
+
+.character-doc-btn:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.18);
+}
+
+.character-doc-btn:hover::before {
+  transform: scaleY(1);
+}
+
+.character-doc-btn--enkidu {
+  --doc-bottom: #1d5bb5;
+  --doc-top: #4ca2ff;
+}
+
+.character-doc-btn--izumi {
+  --doc-bottom: #b42d7d;
+  --doc-top: #ff7acb;
+}
+
+.character-doc-btn--linne {
+  --doc-bottom: #b98812;
+  --doc-top: #f1d06a;
+}
+
+.character-doc-btn--mika {
+  --doc-bottom: #b85e00;
+  --doc-top: #ffb14a;
+}
+
+.character-doc-btn--nanase {
+  --doc-bottom: #1d8a46;
+  --doc-top: #6fe38d;
+}
+
+.character-card[data-character="enkidu"] {
+  box-shadow: 0 3px 10px rgba(73, 160, 255, 0.28);
+}
+
+.character-card[data-character="enkidu"]:hover {
+  box-shadow: 0 8px 18px rgba(73, 160, 255, 0.42);
+}
+
+.character-card[data-character="izumi"] {
+  box-shadow: 0 3px 10px rgba(255, 105, 180, 0.28);
+}
+
+.character-card[data-character="izumi"]:hover {
+  box-shadow: 0 8px 18px rgba(255, 105, 180, 0.42);
+}
+
+.character-card[data-character="linne"] {
+  box-shadow: 0 3px 10px rgba(214, 184, 87, 0.28);
+}
+
+.character-card[data-character="linne"]:hover {
+  box-shadow: 0 8px 18px rgba(214, 184, 87, 0.42);
+}
+
+.character-card[data-character="mika"] {
+  box-shadow: 0 3px 10px rgba(255, 140, 0, 0.28);
+}
+
+.character-card[data-character="mika"]:hover {
+  box-shadow: 0 8px 18px rgba(255, 140, 0, 0.42);
+}
+
+.character-card[data-character="nanase"] {
+  box-shadow: 0 3px 10px rgba(90, 200, 120, 0.28);
+}
+
+.character-card[data-character="nanase"]:hover {
+  box-shadow: 0 8px 18px rgba(90, 200, 120, 0.42);
+}

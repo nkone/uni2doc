@@ -4,33 +4,48 @@ layout: home
 nav_order: 1
 ---
 
-This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
+<link rel="stylesheet" href="{{ '/assets/css/character-cards.css' | relative_url }}">
 
-If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
+## The Characters
 
-More specifically, the created site:
+<div class="character-grid">
+  <div class="character-card-column">
+    <a class="character-card" data-character="enkidu" href="{{ '/docs/enkidu.html' | relative_url }}">
+      <img src="https://mizuumi.wiki/images/1/11/Uni2_profile_Enkidu.png" alt="Enkidu" />
+      <span class="character-card-name">Enkidu</span>
+    </a>
+    <a class="character-doc-btn character-doc-btn--enkidu" href="https://docs.google.com/document/d/1V_HkL1MblrTp-NIqibPNuH-YpbiRB5WU4R1wmHk9hw4/edit?usp=sharing" target="_blank" rel="noopener noreferrer">Google Doc</a>
+  </div>
 
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
+  <div class="character-card-column">
+    <a class="character-card" data-character="izumi" href="{{ '/docs/izumi.html' | relative_url }}">
+      <img src="https://mizuumi.wiki/images/1/12/Uni2_profile_Izumi.png" alt="Izumi" />
+      <span class="character-card-name">Izumi</span>
+    </a>
+    <a class="character-doc-btn character-doc-btn--izumi" href="https://docs.google.com/document/d/1Yc2PGrIGG_b5HNvYVyX0PxqjQZDz5Y7xTQH6qJeIT6g/edit?usp=sharing" target="_blank" rel="noopener noreferrer">Google Doc</a>
+  </div>
 
-Other than that, you're free to customize sites that you create with this template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
+  <div class="character-card-column">
+    <a class="character-card" data-character="linne" href="{{ '/docs/linne.html' | relative_url }}">
+      <img src="https://mizuumi.wiki/images/7/7b/Uni2_profile_Linne.png" alt="Linne" />
+      <span class="character-card-name">Linne</span>
+    </a>
+    <a class="character-doc-btn character-doc-btn--linne" href="https://docs.google.com/document/d/1qTYRIUKt7JC_mGrhtOc80S04IAhIpznWqMHeyfUsRyA/edit?usp=sharing" target="_blank" rel="noopener noreferrer">Google Doc</a>
+  </div>
 
-[Browse our documentation][Just the Docs] to learn more about how to use this theme.
+  <div class="character-card-column">
+    <a class="character-card" data-character="mika" href="{{ '/docs/mika.html' | relative_url }}">
+      <img src="https://mizuumi.wiki/images/3/3e/Uni2_profile_Mika.png" alt="Mika" />
+      <span class="character-card-name">Mika</span>
+    </a>
+    <a class="character-doc-btn character-doc-btn--mika" href="https://docs.google.com/document/d/1Tmdx5hy4dSvkJqgLwKx3Y4T2s2kGUd1Y9xU2tP8fOGo/edit?usp=sharing" target="_blank" rel="noopener noreferrer">Google Doc</a>
+  </div>
 
-To get started with creating a site, simply:
-
-1. click "[use this template]" to create a GitHub repository
-2. go to Settings > Pages > Build and deployment > Source, and select GitHub Actions
-
-If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#hosting-your-docs-from-an-existing-project-repo) in the template README.
-
-----
-
-[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
-
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
-[GitHub Pages]: https://docs.github.com/en/pages
-[README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
-[Jekyll]: https://jekyllrb.com
-[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
+  <div class="character-card-column">
+    <a class="character-card" data-character="nanase" href="{{ '/docs/nanase.html' | relative_url }}">
+      <img src="https://mizuumi.wiki/images/6/64/Uni2_profile_Nanase.png" alt="Nanase" />
+      <span class="character-card-name">Nanase</span>
+    </a>
+    <a class="character-doc-btn character-doc-btn--nanase" href="https://docs.google.com/document/d/1FL-xf0aIju7cJwQf1yvsbSHwhb3hIeElbxAmGKfxozY/edit?usp=sharing" target="_blank" rel="noopener noreferrer">Google Doc</a>
+  </div>
+</div>
