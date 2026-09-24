@@ -30,7 +30,7 @@ Good to threaten from a range to keep opponents blocking. Can catch opponents wh
 >
 <details><summary></summary>
 5[C] launches you into the air, setting up an Overhead attack. Works well on-hit or block. If predictable, the opponent can Shield Overhead followups so use with care.
-<video width="640" height="360" controls>
+<video width="640" height="360" autoplay loop muted playsinline controls preload="auto">
   <source src="https://i.imgur.com/dMf5i89.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video><br>
@@ -42,7 +42,7 @@ Good to threaten from a range to keep opponents blocking. Can catch opponents wh
 >
 <details><summary></summary>
 Good to threaten from a range to keep opponents blocking. Can catch opponents who are walking back. Move can only be canceled into specials which includes Steer Ender.
-<video width="640" height="360" controls>
+<video width="640" height="360" autoplay loop muted playsinline controls preload="auto">
   <source src="https://i.imgur.com/K8duZG1.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video><br>
@@ -54,7 +54,7 @@ Good to threaten from a range to keep opponents blocking. Can catch opponents wh
 >
 <details><summary></summary>
 Good to threaten from a range to force your way in. Move is fairly punishable on block so should be canceled into air special or landing Steer Ender/special move.
-<video width="640" height="360" controls>
+<video width="640" height="360" autoplay loop muted playsinline controls preload="auto">
   <source src="https://i.imgur.com/YoJXhyV.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video><br>
@@ -66,7 +66,7 @@ Good to threaten from a range to force your way in. Move is fairly punishable on
 >
 <details><summary></summary>
 Bubble can be used to help you advance in or restrict a blocking opponents options. If you attack the bubble it will bounce up. If the enemy attacks the bubble it will break. If blocked, the bubble is advantage on block. If hit, the bubble ensnares the opponent giving a free combo confirm.
-<video width="640" height="360" controls>
+<video width="640" height="360" autoplay loop muted playsinline controls preload="auto">
   <source src="https://i.imgur.com/C0mtk4s.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video><br>
@@ -78,7 +78,7 @@ Bubble can be used to help you advance in or restrict a blocking opponents optio
 >
 <details><summary></summary>
 Bubble Blast can be used to help you advance in or reset your turn. If blocked, the bubble blast is advantage on block. If hit, the bubble blast knocks down the opponent allowing a small window to combo off of.
-<video width="640" height="360" controls>
+<video width="640" height="360" autoplay loop muted playsinline controls preload="auto">
   <source src="https://i.imgur.com/xmOtZA5.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video><br>
@@ -90,7 +90,7 @@ Bubble Blast can be used to help you advance in or reset your turn. If blocked, 
 >
 <details><summary></summary>
 Requires 100 Meter. Bubble Beam can be used to help you advance in or reset your turn. If blocked, the Bubble Beam is VERY advantageous on block. If hit, the bubble blast knocks down the opponent allowing a small window to combo off of. Can be used to act after a special move that normally ends your turn.
-<video width="640" height="360" controls>
+<video width="640" height="360" autoplay loop muted playsinline controls preload="auto">
   <source src="https://i.imgur.com/7jB0tw3.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video><br>
@@ -102,7 +102,7 @@ Requires 100 Meter. Bubble Beam can be used to help you advance in or reset your
 >
 <details><summary></summary>
 Good to threaten from a range to keep opponents blocking. Can be used to end a block string. Can add in delay between the 2 splashus to mix up when the string ends. Can also only use the 1st splashu to mix up timing. But must use the increase 2nd hit to combo off of it.
-<video width="640" height="360" controls>
+<video width="640" height="360" autoplay loop muted playsinline controls preload="auto">
   <source src="https://i.imgur.com/f1HNwPu.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video><br>
@@ -116,7 +116,7 @@ Good to threaten from a range to keep opponents blocking. Can be used to end a b
 >
 <details><summary></summary>
 Steer Ender with No Special Moves or Jump Cancels. Combo is just an example. But steer ender can be used to end any normal or dash attack string.
-<video width="640" height="360" controls>
+<video width="640" height="360" autoplay loop muted playsinline controls preload="auto">
   <source src="https://i.imgur.com/DJS4OIf.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video><br>
@@ -128,7 +128,7 @@ Steer Ender with No Special Moves or Jump Cancels. Combo is just an example. But
 >
 <details><summary></summary>
 Uses Special Moves and Jump Cancels. Gains access to Elefee moves by use of 22A/B. Requires a small delay to allow the opponent to be closer to the ground before the ender.
-<video width="640" height="360" controls>
+<video width="640" height="360" autoplay loop muted playsinline controls preload="auto">
   <source src="https://i.imgur.com/ZtQxYd5.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video><br>
@@ -140,7 +140,7 @@ Uses Special Moves and Jump Cancels. Gains access to Elefee moves by use of 22A/
 >
 <details><summary></summary>
 Steer Ender with No Special Moves or Jump Cancels. Throw requires the wall bounces to combo off.
-<video width="640" height="360" controls>
+<video width="640" height="360" autoplay loop muted playsinline controls preload="auto">
   <source src="https://i.imgur.com/NMwfpXh.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video><br>
