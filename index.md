@@ -6,6 +6,13 @@ nav_order: 1
 
 <link rel="stylesheet" href="{{ '/assets/css/character-cards.css' | relative_url }}">
 
+
+<video width="640" height="360" controls>
+  <source src="https://www.youtube.com/embed/yR2CuD9opzs" type="video/mp4">
+  Your browser does not support the video tag.
+</video><br>
+
+
 ## The Characters
 
 <div class="character-grid">
