@@ -6,10 +6,10 @@ nav_order: 1
 
 <link rel="stylesheet" href="{{ '/assets/css/character-cards.css' | relative_url }}">
 
-## UNI2 Introduction Video
+## UNI2 Introduction Video https://youtu.be/yR2CuD9opzs 
 
 <video width="640" height="360" controls>
-  <source src="https://www.youtube.com/embed/yR2CuD9opzs" type="video/html">
+  <source src="https://youtu.be/yR2CuD9opzs" type="video/html">
   Your browser does not support the video tag.
 </video><br>
 
