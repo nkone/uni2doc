@@ -8,10 +8,16 @@ nav_order: 1
 
 ## UNI2 Introduction Video https://youtu.be/yR2CuD9opzs 
 
-<video width="640" height="360" controls>
-  <source src="https://youtu.be/yR2CuD9opzs" type="video/html">
-  Your browser does not support the video tag.
-</video><br>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Embedded YouTube Video</title>
+</head>
+<body>
+
+<iframe width="869" height="489" src="https://www.youtube.com/embed/yR2CuD9opzs" title="Uni2 Control Overview" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 
 ## The Characters
