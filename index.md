@@ -8,7 +8,9 @@ nav_order: 1
 
 ## UNI2 Introduction Video
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yR2CuD9opzs" title="Uni2 Control Overview" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div class="intro-video">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/yR2CuD9opzs" title="Uni2 Control Overview" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 
 ## The Characters
 
